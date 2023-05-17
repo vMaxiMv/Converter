@@ -123,7 +123,7 @@ a {
 .input {
   color: rgb(141, 118, 243);
   padding: 10px;
-  font-size: 16px;
+  font-size: 20px;
   border: 1px solid #ccc;
   border-radius: 4px;
   background-color: #8ef5f5;
@@ -140,7 +140,7 @@ a {
 .choice {
   width: 100%;
   padding: 10px;
-  font-size: 18px;
+  font-size: 20px;
   border: 1px solid #ccc;
   border-radius: 4px;
   background-color: #8ef5f5;
